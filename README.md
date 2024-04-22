@@ -1,5 +1,7 @@
 <h1 align="left">:vulcan_salute: Hola!, Soy Fabrizio</h1>
 
+<img src="image.png" width="600" height="200" />
+
 ##
  Soy un:
 - Desarrolador Frontend.
@@ -18,7 +20,7 @@
   </a>
 
   ## :hammer_and_wrench: Lenguajes y herramientas que utilizo:
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="35" alt="figma logo"  />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="35" alt="mysql logo"  />
   <img src="https://img.shields.io/badge/pnpm-yellow?style=for-the-badge&logo=pnpm&logoColor=white" height="35" alt="mysql logo"  />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="mysql logo"  />
