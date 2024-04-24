@@ -3,7 +3,9 @@
 <img src="image.png" width="600" height="200" />
 
 ##
- Soy un:
+ Apasionado por el estudio, los sistemas GNU/Linux y la programación.
+ 
+ Además soy un:
 - Desarrolador Frontend.
 - Autodidacta.
 - Uruguayo de 19 años.
