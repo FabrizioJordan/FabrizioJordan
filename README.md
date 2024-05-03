@@ -37,11 +37,6 @@
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="35" alt="mysql logo"  />
 </div>
 
-## :fire: Mis estadísticas
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabriziojordan&theme=whatsapp-dark2&mode=weekly&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziojordan&layout=compact&hide_border=false&border_color=103629&bg_color=0b141b&text_color=858a8d&title_color=f7f8fa)](https://github.com/anuraghazra/github-readme-stats(https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziojordan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats))
-
 ## :person_curly_hair: Sobre mí
 
 * :telescope: Admirador de los sistemas GNU/Linux y del Shell Scripting :computer:.
@@ -92,3 +87,19 @@
                                                                                       
 </td>  
 </table>       
+
+
+
+## :fire: Mis estadísticas
+<details>
+ <summary>Click para ver</summary>
+ <br>
+ <br>
+ <div>
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabriziojordan&theme=whatsapp-dark2&mode=weekly&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziojordan&layout=compact&hide_border=false&border_color=103629&bg_color=0b141b&text_color=858a8d&title_color=f7f8fa)](https://github.com/anuraghazra/github-readme-stats(https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziojordan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats))
+ </div>
+ <br>
+ <br>
+</details>
