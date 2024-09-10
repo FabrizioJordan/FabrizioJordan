@@ -1,6 +1,6 @@
 <h1 align="left">:vulcan_salute: Hola!, Soy Fabrizio</h1>
 
-<img src="image.png" width="600" height="200" />
+<img src="image_web.png" width="600" height="200" />
 
 ##
  Apasionado por el autodidactismo, los sistemas GNU/Linux y la programación.
