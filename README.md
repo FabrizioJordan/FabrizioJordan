@@ -14,7 +14,7 @@
   
   ## :link: Mis links
   
-  <a href="mailto:kevpadilla01@gmail.com">
+  <a href="mailto:fabriziodevjordan@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fabricio-jordán-936385136/" target="_blank">
