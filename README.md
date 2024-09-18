@@ -1,20 +1,25 @@
-<h1 align="left">:vulcan_salute: Hola!, Soy Fabrizio</h1>
+<h1 align="left">
+<img src="image.png" width="600" height="300" />
+</h1>
 
-<img src="image.png" width="600" height="200" />
+## :person_curly_hair: Sobre mí
 
-##
- Apasionado por el autodidactismo, los sistemas GNU/Linux y la programación.
- 
- Además soy un:
-- Desarrollador Frontend.
-- Autodidacta.
-- Uruguayo de 20 años.
+* 💻 Desarrollador FrontEnd de Montevideo, Uruguay 🇺🇾 🎨.
+
+* :telescope: Admirador de los sistemas GNU/Linux y del Shell Scripting 🖥️.
+
+* :seedling: Actualmente estoy estudiando y practicando Astro y React, además de aprendiendo Python :muscle:.
+
+* :heartbeat: Amante de los estudios :blue_book: y del autodidactismo.
+
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-FabrizioJordan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-jordán-936385136/)
+
 
 <div align="left">
   
   ## :link: Mis links
   
-  <a href="mailto:fabriziodevjordan@gmail.com">
+  <a href="mailto:fabriziodevjordan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fabricio-jordán-936385136/" target="_blank">
@@ -37,16 +42,6 @@
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" height="35" alt="linux-mint logo"  />
 </div>
 
-## :person_curly_hair: Sobre mí
-
-* :telescope: Admirador de los sistemas GNU/Linux y del Shell Scripting :computer:.
-
-* :seedling: Actualmente estoy estudiando y practicando Astro y React, además de aprendiendo Python :muscle:.
-
-* :heartbeat: Amante de los estudios :blue_book: y del autodidactismo.
-
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-FabrizioJordan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-jordán-936385136/)
-
 ## :desktop_computer: Mis proyectos:
 
 <table>
@@ -54,16 +49,16 @@
 <td width="50%">
 <h3 align="center">Prototipo de Portafolio</h3>
 <div align="center">
-<a href="https://github.com/FabrizioJordan/prototypePortfolio1" target="_blank"><img src="https://i.imgur.com/5DW7Bqz.png" width="400" alt="Prototipo de Portafolio"></a>
+<a href="https://github.com/FabrizioJordan/prototypePortfolio3" target="_blank"><img src="https://i.imgur.com/JvdXk5f.png" width="400" alt="Prototipo de Portafolio"></a>
 <p>
-<a href="https://github.com/FabrizioJordan/prototypePortfolio1" target="_blank">
+<a href="https://github.com/FabrizioJordan/prototypePortfolio3" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://prototypeportfolio.vercel.app" target="_blank">
+<a href="https://prototype-portfolio3.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
 </a>
 </p>
-<p>Un prototipo de <strong>portafolio personal</strong> hecho como practica con <strong>TailwindCSS</strong>. 🚀
+<p>Un prototipo de <strong>portafolio personal</strong> hecho como práctica con <strong>TailwindCSS</strong> y <strong>AstroJS</strong>. 🚀
 </p>
 </div>
                                                                                       
@@ -72,7 +67,7 @@
 <td width="50%">
 <h3 align="center">Xiaomi Fake Web</h3>
 <div align="center">
-<a href="https://github.com/FabrizioJordan/xiaomiPage" target="_blank"><img src="https://github.com/FabrizioJordan/astro-portfolio/blob/9ef20597b7598ffe8c972d9ce674be26fa9af390/src/assets/img/projects/main-projects/xiaomi.png" width="400" alt="Xiaomi Fake Web"></a>
+<a href="https://github.com/FabrizioJordan/xiaomiPage" target="_blank"><img src="https://i.imgur.com/BxKlGph.jpeg" width="400" alt="Xiaomi Fake Web"></a>
 <p>
 <a href="https://github.com/FabrizioJordan/xiaomiPage" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
