@@ -52,7 +52,7 @@
 <a href="https://github.com/FabrizioJordan/prototypePortfolio3" target="_blank"><img src="https://i.imgur.com/JvdXk5f.png" width="400" alt="Prototipo de Portafolio"></a>
 <p>
 <a href="https://github.com/FabrizioJordan/prototypePortfolio3" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://prototype-portfolio3.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
@@ -70,7 +70,7 @@
 <a href="https://github.com/FabrizioJordan/xiaomiPage" target="_blank"><img src="https://i.imgur.com/BxKlGph.jpeg" width="400" alt="Xiaomi Fake Web"></a>
 <p>
 <a href="https://github.com/FabrizioJordan/xiaomiPage" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-000000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://xiaomi-page.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE SITE-black?style=for-the-badge&color=white">
