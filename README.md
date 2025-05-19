@@ -1,6 +1,6 @@
-<h1 align="left">
-<img src="image.png" width="600" height="300" />
-</h1>
+
+![HeaderImg]([./[github-header-image.png]](https://github.com/FabrizioJordan/FabrizioJordan/blob/master/github-header-image.png))
+
 
 ## :person_curly_hair: Sobre mí
 
