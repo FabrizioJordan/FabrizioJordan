@@ -1,5 +1,5 @@
 
-<img width="654" height="480" src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif">
+<img width="654" height="420" src="https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif">
 
 
 ## :person_curly_hair: Sobre mí
